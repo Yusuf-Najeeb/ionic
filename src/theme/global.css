@@ -1,0 +1,39 @@
+ion-content::part(scroll)::-webkit-scrollbar {
+  display: none;
+}
+
+ion-toolbar,
+ion-footer {
+  height: 0;
+}
+
+.ellipseText {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+
+.horizontalScroll {
+  overflow-x: scroll;
+  white-space: nowrap;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
