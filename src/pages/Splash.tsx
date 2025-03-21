@@ -19,7 +19,7 @@ const SplashScreen: React.FC = () => {
             height: "80%",
           }}
         >
-          <div className="center appIconWrapper">
+          <div className="center">
             <img
               src={StudentImg}
               style={{

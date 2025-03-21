@@ -1,0 +1,347 @@
+.whiteColor13Regular {
+  color: var(--ion-color-light);
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.whiteColor15Regular {
+  color: var(--ion-color-light);
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.whiteColor16Regular {
+  color: var(--ion-color-light);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.whiteColor20Regular {
+  color: var(--ion-color-light);
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.whiteColor13Medium {
+  color: var(--ion-color-light);
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.whiteColor14Medium {
+  color: var(--ion-color-light);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.whiteColor20Medium {
+  color: var(--ion-color-light);
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.whiteColor13SemiBold {
+  color: var(--ion-color-light);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.whiteColor16SemiBold {
+  color: var(--ion-color-light);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.whiteColor18SemiBold {
+  color: var(--ion-color-light);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.whiteColor10Bold {
+  color: var(--ion-color-light);
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.whiteColor16Bold {
+  color: var(--ion-color-light);
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.whiteColor17Bold {
+  color: var(--ion-color-light);
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.whiteColor22Bold {
+  color: var(--ion-color-light);
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.whiteColor12ExtraBold {
+  color: var(--ion-color-light);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.whiteColor44BebasRegular {
+  color: var(--ion-color-light);
+  font-size: 44px;
+  font-family: "BebasNeue";
+}
+
+.blackColor13Regular {
+  color: var(--ion-color-dark);
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.blackColor14Regular {
+  color: var(--ion-color-dark);
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.blackColor15Regular {
+  color: var(--ion-color-dark);
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.blackColor16Regular {
+  color: var(--ion-color-dark);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.blackColor13Medium {
+  color: var(--ion-color-dark);
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.blackColor14Medium {
+  color: var(--ion-color-dark);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.blackColor15Medium {
+  color: var(--ion-color-dark);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.blackColor16Medium {
+  color: var(--ion-color-dark);
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.blackColor17Medium {
+  color: var(--ion-color-dark);
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.blackColor18Medium {
+  color: var(--ion-color-dark);
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.blackColor20Medium {
+  color: var(--ion-color-dark);
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.blackColor14SemiBold {
+  color: var(--ion-color-dark);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.blackColor18SemiBold {
+  color: var(--ion-color-dark);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.blackColor18Bold {
+  color: var(--ion-color-dark);
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.blackColor30BebasRegular {
+  color: var(--ion-color-dark);
+  font-size: 30px;
+  font-family: "BebasNeue";
+}
+
+.blackColor34BebasRegular {
+  color: var(--ion-color-dark);
+  font-size: 34px;
+  font-family: "BebasNeue";
+}
+
+.blackColor40BebasRegular {
+  color: var(--ion-color-dark);
+  font-size: 40px;
+  font-family: "BebasNeue";
+}
+
+.grayColor13Regular {
+  color: var(--ion-color-medium);
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.grayColor14Regular {
+  color: var(--ion-color-medium);
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.grayColor15Regular {
+  color: var(--ion-color-medium);
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.grayColor16Regular {
+  color: var(--ion-color-medium);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.grayColor11Medium {
+  color: var(--ion-color-medium);
+  font-size: 11px;
+  font-weight: 500;
+}
+
+.grayColor14Medium {
+  color: var(--ion-color-medium);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.grayColor15Medium {
+  color: var(--ion-color-medium);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.grayColor16Medium {
+  color: var(--ion-color-medium);
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.grayColor18SemiBold {
+  color: var(--ion-color-medium);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.grayColor40BebasRegular {
+  color: var(--ion-color-medium);
+  font-size: 40px;
+  font-family: "BebasNeue";
+}
+
+.primaryColor14Medium {
+  color: var(--ion-color-primary);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.primaryColor18Medium {
+  color: var(--ion-color-primary);
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.primaryColor18SemiBold {
+  color: var(--ion-color-primary);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.primaryColor20SemiBold {
+  color: var(--ion-color-primary);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.redColor14Regular {
+  color: var(--ion-color-danger);
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.redColor14Medium {
+  color: var(--ion-color-danger);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.redColor15SemiBold {
+  color: var(--ion-color-danger);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.greenColor15SemiBold {
+  color: var(--ion-color-success);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.darkGreenColor15SemiBold {
+  color: var(--ion-color-secondary);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.secondaryColor14Medium {
+  color: var(--ion-color-secondary);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.secondaryColor15Medium {
+  color: var(--ion-color-secondary);
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.secondaryColor13SemiBold {
+  color: var(--ion-color-secondary);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.secondaryColor15SemiBold {
+  color: var(--ion-color-secondary);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.secondaryColor16SemiBold {
+  color: var(--ion-color-secondary);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.secondaryColor17Bold {
+  color: var(--ion-color-secondary);
+  font-size: 17px;
+  font-weight: 700;
+}

@@ -7,6 +7,45 @@ ion-footer {
   height: 0;
 }
 
+ion-input {
+  --placeholder-color: var(--ion-color-medium);
+  --plceholder-opacity: 1;
+  margin-left: 10px;
+  flex: 1;
+}
+
+.inputFieldWrapper {
+  background-color: var(--extraLightGrayColor);
+  border-radius: 25px;
+  padding: 15px;
+  margin: 0 20px;
+}
+
+.circle15 {
+  width: 15px;
+  height: 15px;
+  border-radius: 7.5px;
+}
+
+.circle8 {
+  width: 8px;
+  height: 8px;
+  border-radius: 4px;
+}
+
+.googleFacebookButton {
+  flex: 1;
+  background-color: var(--ion-color-light-tint);
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.inputFieldWrapper {
+  background-color: var(--ion-color-light);
+  border-radius: 1rem;
+  margin: 15px 20px;
+}
+
 .ellipseText {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -20,6 +59,25 @@ ion-footer {
   &::-webkit-scrollbar {
     display: none;
   }
+}
+
+.exitWrapper {
+  position: absolute;
+  bottom: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.exitText {
+  background-color: #414040;
+  padding: 10px 15px;
+  border-radius: 20px;
+  z-index: 99999;
+}
+
+.margin20 {
+  margin: 20px;
 }
 
 .center {
@@ -36,4 +94,65 @@ ion-footer {
 .column {
   display: flex;
   flex-direction: column;
+}
+
+.rowAlignCenter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.columnAlignCenter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imageOverflow {
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.boxShadow {
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+}
+
+.ion-valid.sc-ion-input-ios-h {
+  --highlight-color: var(--ion-color-primary);
+}
+
+.ion-valid.sc-ion-textarea-ios-h {
+  --highlight-color: var(--ion-color-primary);
+}
+
+.commonButton {
+  background-color: var(--ion-color-secondary);
+  border-radius: 27px;
+  padding: 15px;
+  box-shadow: 0 10px 15px rgba(255, 171, 27, 0.29);
+}
+
+.roundContentWrapper {
+  width: 100%;
+  height: 100%;
+  background-color: var(--ion-color-dark-contrast);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  margin-top: -20px;
+  z-index: 100;
+  position: absolute;
+  overflow: hidden;
+  padding-bottom: 80px;
+}
+
+.toastWrapper {
+  --background: #333333;
+  --box-shadow: 0 0 0;
+  --border-radius: 5px;
+}
+
+.circle50 {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
 }
