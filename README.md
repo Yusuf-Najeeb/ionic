@@ -5,11 +5,12 @@ This sample was created as part of [GAI Academy](https://gaiacademy.org) mobile 
 ## How to test the app
 To test this, you can execute the following commands:
 
-1. `npm install`
-2. `ionic serve`
-3. The sample should now be displayed in your browser
-4. On your browser, enable developer tools using this keyboard shortcut: `CTRL + SHIFT + I`
-5. On your browser, enable device toolbar using this keyboard shortcut: `CTRL + SHIFT + M`
+1. Don't forget to checkout this repo first. You can do so with this command: `https://github.com/Yusuf-Najeeb/ionic.git`
+2. `npm install`
+3. `ionic serve`
+4. The sample should now be displayed in your browser
+5. On your browser, enable developer tools using this keyboard shortcut: `CTRL + SHIFT + I`
+6. On your browser, enable device toolbar using this keyboard shortcut: `CTRL + SHIFT + M`
 
 ## How to package the app
 To package your app for deployment, you can execute the following commands:
